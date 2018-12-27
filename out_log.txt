@@ -1,0 +1,1 @@
+Thursday, December 2018, 27th 10:39:55 am | test prefix | WARN | FileLogger!!!
